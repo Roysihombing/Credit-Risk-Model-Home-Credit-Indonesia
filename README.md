@@ -77,5 +77,3 @@ The comparison of recall scores between models is shown below:
 4. Conduct **further hyperparameter tuning** with extended computation for improved results.  
 
 ---
-
-## 📂 Repository Structure
