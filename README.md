@@ -66,7 +66,7 @@ The modeling process focused on **recall** as the most important metric.
 ## 📈 Model Performance
 The comparison of recall scores between models is shown below:
 
-![Recall Comparison](recall_comparison.png)
+![Recall Comparison](recall comparison.png)
 
 ---
 
